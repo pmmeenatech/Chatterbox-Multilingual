@@ -19,8 +19,5 @@ Fast and Professional Multilingual Voice Cloning Tool. Simply clone any voice an
 This project is a modified and optimized version of the original **Chatterbox** by **Resemble AI**. 
 
 * **Original Source**: [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
-* **Developed by**: [Resemble AI](https://www.resemble.ai/)
-* **License**: This project is licensed under the [MIT License](https://github.com/resemble-ai/chatterbox/blob/master/LICENSE).
-
 ---
 Modified with ❤️ by **PmNetGuru**
